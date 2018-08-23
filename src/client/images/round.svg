@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  height="814" width="814">
+  <defs>
+    <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="10%" fy="50%">
+      <stop offset="20%" style="stop-color:rgb(139,197,63);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(22,171,78);stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  <ellipse cx="407" cy="407" rx="407" ry="407" fill="url(#grad1)" />
+  Sorry, your browser does not support inline SVG.
+</svg>

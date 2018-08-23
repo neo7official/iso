@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1335" height="738" viewBox="0 0 1335 738">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        opacity: 0.2;
+        filter: url(#filter);
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-7 {
+        fill: #e91e63;
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #81c784;
+      }
+
+      .cls-4 {
+        fill: #ffca28;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill-opacity: 0;
+        stroke-linejoin: round;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        stroke-width: 6px;
+      }
+
+      .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        stroke: #e91e63;
+        stroke-width: 4px;
+      }
+
+      .cls-10, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-8, .cls-9 {
+        stroke: #ff8f0b;
+        stroke-width: 10px;
+      }
+
+      .cls-10 {
+        stroke: #e1e1e1;
+        stroke-width: 3px;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#bcff70"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-1">
+    <path class="cls-2" d="M1187.9,648.159l-33.61,15.388,3.49-36.812,30.12,21.424"/>
+    <circle class="cls-3" cx="171.172" cy="120.75" r="19.516"/>
+    <circle id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-4" cx="503.313" cy="162.719" r="14.5"/>
+    <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-5" d="M1006.09,27.01l-4.94,46.863L962.394,44.691l43.7-17.681"/>
+    <path id="Shape_1_copy_3" data-name="Shape 1 copy 3" class="cls-6" d="M539.278,681.6l-15.336-44.662,47.765,10.022L539.278,681.6"/>
+    <circle id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-7" cx="1113.56" cy="279.672" r="18.5"/>
+    <circle class="cls-8" cx="71" cy="684.015" r="32"/>
+    <path id="Ellipse_2_copy_2" data-name="Ellipse 2 copy 2" class="cls-9" d="M1249.48,499.088a46.481,46.481,0,1,1-46.52,46.481A46.5,46.5,0,0,1,1249.48,499.088Z"/>
+    <circle id="Ellipse_3_copy_2" data-name="Ellipse 3 copy 2" class="cls-10" cx="917.969" cy="463.094" r="9"/>
+  </g>
+</svg>
